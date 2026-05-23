@@ -12,7 +12,7 @@ const swaggerOptions = {
   swaggerDefinition: {
     openapi: '3.0.0',
     info: {
-      title: 'API Pet care - Adopción Canina',
+      title: 'API Pet Care - Adopción Canina',
       version: '1.0.0',
       description: 'Endpoints para la gestión de mascotas y adopciones.',
     },
