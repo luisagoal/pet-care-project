@@ -12,7 +12,7 @@ const swaggerOptions = {
   swaggerDefinition: {
     openapi: '3.0.0',
     info: {
-      title: 'API Huellas Felices - Adopción Canina',
+      title: 'API Pet care - Adopción Canina',
       version: '1.0.0',
       description: 'Endpoints para la gestión de mascotas y adopciones.',
     },
